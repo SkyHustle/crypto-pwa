@@ -18,7 +18,7 @@ class App extends Component {
                           <span className="navbar-item">Crypto PWA</span>
                       </div>
                       <div className="navbar-end">
-                          <a className="navbar-item" href="https://localhost:3000" target="_blank" rel="noopener noreferrer">Home</a>
+                          <a className="navbar-item" href="https://" target="_blank" rel="noopener noreferrer">Home</a>
                       </div>
                   </nav>
               </header>
